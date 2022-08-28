@@ -1,0 +1,18 @@
+.col-3{
+    font-size: 50px;
+    color: #456789;
+    justify-content: left;
+}
+.container-xxl{
+    max-width: 100vh;
+
+}
+.col-9{
+    max-width: 100px;
+}
+section{
+    padding:100px;
+}
+
+
+\\\
